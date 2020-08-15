@@ -49,8 +49,8 @@ function toggle (){
       <div className="backbtn">
         <NavLink exact to="/">
           {" "}
-          <button type="button" class="btn btn-warning">
-          <strong>⌫</strong> Back
+          <button type="button" class="button">
+          <strong>←</strong> Back
           </button>
         </NavLink>
         </div>
@@ -65,7 +65,7 @@ function toggle (){
         </div>
         <>
         <div class="generatebtn1">
-        <Pdf targetRef={ref} filename="code-example.pdf">
+        <Pdf targetRef={ref} filename="Example.pdf">
           {({ toPdf }) => <button  class="generatebtn1 button" onClick={toPdf}>Generate a pdf</button>}
         </Pdf>
         <button type="button" class="generatebtn2 button" onClick={foggle}>Edit</button></div></>
