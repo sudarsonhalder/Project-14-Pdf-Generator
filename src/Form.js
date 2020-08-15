@@ -90,7 +90,7 @@ class ModalPage extends Component {
             </div>
           </MDBModalBody>
           <MDBModalFooter>
-            <MDBBtn class=" btn3 btn-danger" onClick={this.toggle}>
+            <MDBBtn class=" btn2 btn-danger" onClick={this.toggle}>
               Close
             </MDBBtn>
             <NavLink
