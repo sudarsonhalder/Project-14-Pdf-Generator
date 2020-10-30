@@ -4,7 +4,7 @@ Text to pdf Generator
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Technologies](#techstack)
+* [Technologies](#tech-stack)
 * [Setup](#setup)
 * [Features](#features)
 
@@ -28,7 +28,7 @@ based on the input provided by the user.
 * React
 
 ## Setup
-1.Clone the repository.
+1.Clone the repository.  
 2.Run the command npm install.
 
 ## Features
