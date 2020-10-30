@@ -162,14 +162,14 @@ input:focus ~ .highlight {
 .btn1 {
   /* top: 50%;
   left: 50%; */
-  background-color: #f1f1f1;
+  background-color:  white;
   font-family:'Roboto';
   color: black;
   font-size: 16px;
-  padding: 16px 10px;
+  padding: 18px 50px;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 45px;
   text-align: center;
 }
 
@@ -181,24 +181,9 @@ input:focus ~ .highlight {
 .Header{
   color: #23d5ab;
 }
-
-.btn2 {
-  /* top: 50%;
-  left: 50%; */
-  background-color: #f1f1f1;
-  font-family:'Roboto';
-  color: black;
-  font-size: 16px;
-  padding: 7px 15px;
-  border: none;
-  cursor: pointer;
-  border-radius: 5px;
-  text-align: center;
-}
 .btn3 {
   /* top: 50%;
   left: 50%; */
-  background-color: #f1f1f1;
   font-family:'Roboto';
   color: black;
   font-size: 16px;
