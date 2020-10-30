@@ -4,7 +4,7 @@ Text to pdf Generator
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Technologies](#tech-stack)
+* [Tech Stack](#tech-stack)
 * [Setup](#setup)
 * [Features](#features)
 
