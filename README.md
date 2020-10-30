@@ -1,49 +1,38 @@
 # Project Name
-> Here goes your awesome project description!
+Text to pdf Generator
 
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Technologies](#technologies)
+* [Technologies](#techstack)
 * [Setup](#setup)
 * [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+This project is built using React JS. It helps the user to convert the text into PDF
+based on the input provided by the user.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+ | ![Input Page](/output-images/input1.png)|
+|:--:| 
+| *Input Page*|
 
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+ | ![Input Page](/output-images/output1.png)|
+|:--:| 
+| *Output Page*|
+
+## Tech Stack
+* Html
+* Javascript
+* Bootstrap
+* React
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+1.Clone the repository.
+2.Run the command npm install.
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
-
-## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+List of features in the project.
+* User can convert their text into a pdf.
+* There are different input in the project.
+* The application takes the following input given by user in header,paragraph and footer section and convert the text into pdf.
